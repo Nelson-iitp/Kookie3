@@ -1633,7 +1633,7 @@ Public Class k3main
         k3SettingPage.Show()
     End Sub
     Private Sub VisitWebsiteToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles VisitWebsiteToolStripMenuItem.Click
-        Process.Start("https://spookyisgod.wordpress.com/kookie3help/")
+        Process.Start("https://github.com/Nelson-iitp/Kookie3")
         ShowMsg("Visit Website")
     End Sub
     Private Sub AppDirToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles AppDirToolStripMenuItem.Click
