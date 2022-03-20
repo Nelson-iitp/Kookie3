@@ -11,12 +11,12 @@ Supported for windows7 and above. Requires .NET framework 4.8 or above.
 
 ![ui1](mdsrc/ui1.png)
 
-Kookie3 is **portable** and has **highly flexible UI**. Checkout some interface setting below.
+Kookie3 is **portable** and has minimal but **highly flexible UI**. Checkout some interface setting below.
 ___
 
 ![ui2](mdsrc/ui2.png)
 
-**Transparent UIs with opacity control**
+**Transparent UI with opacity control**
 ___
 
 ![ui3](mdsrc/ui3.png)
@@ -46,17 +46,17 @@ ___
 
 ![ui8](mdsrc/ui8.png)
 
-**Solid Lable with solid art**
+**Fully Solid (opaque) UI**
 ___
 
 ![ui9](mdsrc/ui9.png)
 
-**Auto color matching UI**
+**Auto color matching UI** : Note - color matching is b/w art background and label background, this works during Hue shift as well.
 ___
 
 ![ui10](mdsrc/ui10.png)
 
-**No Lable - only seekbar and album-art in UI**
+**No Lable UI**
 ___
 
 ![ui11](mdsrc/ui11.gif)
@@ -66,7 +66,7 @@ ___
 
 ## Installation
 
-Kookie3 is stand-alone, no installation required. 
+Kookie3 is stand-alone, no installation required. You can compile from source code or use pre-compiled binaries available in zip format.
 
 * [Download](https://github.com/Nelson-iitp/Kookie3/raw/main/Kookie3/Kookie3.zip) and Extract zip
 
@@ -95,7 +95,7 @@ ___
 	
 ![6](mdsrc/6.png "alt-menu")
 
-* click on '**setting**' menu item to see all settings window
+* click on '**Setting -> Show Configuration**' menu item to see settings window
 
 ![7](mdsrc/7.png "setting window")
 
@@ -120,14 +120,16 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 
 ### General
-```
-Exit  ::  Keys.Escape
-Show Devices :: Keys.E
-Show Playlist  ::  Keys.P
-Show Library  ::  Keys.L
-Toggle File Drop Target  :: Keys.D
-Reinitialize BASS device  ::  Keys.Enter
-```
+
+|------|------|
+|:------:|:------:|
+|Exit|Keys.Escape|
+|Show Settings|Keys.E|
+|Show Devices|Keys.V|
+|Show Playlist|Keys.P|
+|Show Library|Keys.L|
+|Toggle File Drop Target|Keys.D|
+|Reinitialize BASS device|Keys.Enter|
 
 ### Media Control
 ```
