@@ -4,14 +4,22 @@
 
 ## About
 
-Kookie3 is a media player based on [un4seen BASS audio library](https://www.un4seen.com/).
+Kookie3 is a stylish media player with sleek looks and minimalist UI. Kookie3 is **portable** and has **flexible UI**. It is designed to be used as a gadget which sits on top of other windows. Kookie3 includes visually appealing features like RGB-hue-Shift, Transperancy and Opacity control and custom animated backgrounds.
+
+Based on [un4seen BASS audio library](https://www.un4seen.com/).
 Supported for windows7 and above. Requires .NET framework 4.8 or above.
 
 ## Customized Interface
 
 ![ui1](mdsrc/ui1.png)
 
-Kookie3 is **portable** and has minimal but **highly flexible UI**. Checkout some interface setting below.
+Simple design of Kookie3 makes its interface simple to customize. The main UI has just 3 components:
+1. Lable
+2. Seekbar
+3. Album-art
+
+
+Checkout some interface setting below.
 ___
 
 ![ui2](mdsrc/ui2.png)
