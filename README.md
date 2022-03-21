@@ -103,6 +103,62 @@ ___
 * '**Art/Art_Default'** can be choosen to set app background
 	* some app backgrounds are provided within, check the folder `k3art` under app directory
 * '**Art/Art_Always_Show_Default'** can be turned **False** to show album art when available
+
+
+* Alt-menu is available in the **System-Tray** as well
+
+![8](mdsrc/8.png "System Tray Icon")
+
+**Note:**
+
+If you can't find your UI on screen, due to various reasons such as:
+
+* reducing opacity to zero
+* reducing size to zero
+* positioning outside working area
+* making everything transparent or hiding everything (including labels and seekbar)
+* sizing incorrectly wrt docking of elements
+
+Then you can use Tray menu to first **'Focus'** on Kookie3 (so that it accepts input) and then choose any of the following:
+
+* Use 'Center-Screen UI' `ctrl + C` - this brings the UI to center of the working screen
+* Use 'Auto-Size UI' `ctrl + B` - this auto-sizes the UI based on size of its elements
+* Reset Settings 
+	* close running instance of Kookie3
+	* go to app directory and delete the k3.ini file
+	* start Kookie3 again - a default configuration file will be created
+	* this will not disturb your libraries but reset only the UI preferences
+	
+Remeber to save all your prefered UI settings using 
+* alt-menu->`Settings`->`Save As Config` or 
+* shortcut `ctrl + shift + S`
+
+and load it later using:
+* alt-menu->`Settings`->`Load Config` or 
+* shortcut `ctrl + O`
+
+
+**Note: Transparent UI**
+
+To make UI transparent, go to settings `ctrl + E`
+* Select a `Color_Transparent` - this color will be made the `TransperancyKey` of main UI
+	* all colors matching this color will appear transparent
+	![9](mdsrc/9.png "Transperancy-Key`")
+	
+* Select the same `Color_Back` to make the background transparent or `Color_Fore` to make Labels Transparent
+
+
+**Note: RGB Effect with Hue-Shifting**
+
+To toggle Hue-Shifting use shortcut key `T`. 
+Note that:
+* Hue-shift works only when a media is **playing**. 
+* Hue-shift can be enabled seperatly for background and foreground.
+* The *angle* of shift (in radians) can be choosen in settings.
+	* See more settings in `Setting/Others` section
+	![10](mdsrc/10.png "Hue-Shift Settings")
+
+
 ___
 
 
