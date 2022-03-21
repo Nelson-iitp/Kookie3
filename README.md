@@ -152,7 +152,8 @@ and load it later using:
 To make UI transparent, go to settings `ctrl + E`
 * Select a `Color_Transparent` - this color will be made the `TransperancyKey` of main UI
 	* all colors matching this color will appear transparent
-* ![9](mdsrc/9.png "Transperancy-Key`")
+
+![9](mdsrc/9.png "Transperancy-Key`")
 	
 * Select the same `Color_Back` to make the background transparent or `Color_Fore` to make Labels Transparent
 * **VERY IMPORTANT** : DO NOT SET TRANSPERANCY KEY TO PURE WHITE (255,255,255) OR PURE BLACK (0,0,0) as this may cause UI to misbehave.
@@ -166,6 +167,7 @@ Note that:
 * Hue-shift can be enabled seperatly for background and foreground.
 * The *angle* of shift (in radians) can be choosen in settings.
 	* See more settings in `Setting/Others` section
+
 	![10](mdsrc/10.png "Hue-Shift Settings")
 
 
