@@ -152,10 +152,11 @@ and load it later using:
 To make UI transparent, go to settings `ctrl + E`
 * Select a `Color_Transparent` - this color will be made the `TransperancyKey` of main UI
 	* all colors matching this color will appear transparent
+	* 
 	![9](mdsrc/9.png "Transperancy-Key`")
 	
 * Select the same `Color_Back` to make the background transparent or `Color_Fore` to make Labels Transparent
-* **VERY IMPORTANT** : **DO NOT SET TRANSPERANCY KEY TO PURE WHITE (255,255,255) OR PURE BLACK (0,0,0)** as this may cause UI to misbehave.
+* **VERY IMPORTANT** : DO NOT SET TRANSPERANCY KEY TO PURE WHITE (255,255,255) OR PURE BLACK (0,0,0) as this may cause UI to misbehave.
 
 
 **Note: RGB Effect with Hue-Shifting**
