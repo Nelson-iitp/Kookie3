@@ -123,80 +123,80 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 |Action|Key|
 |:------|:------|
-|Exit|Keys.Escape|
-|Show Playlist|Keys.P|
-|Show Library|Keys.L|
-|Toggle File Drop Target|Keys.D|
-|Show Settings|Keys.E|
-|Show Devices|Keys.V|
-|Reinitialize BASS device|Keys.Enter|
-|Open App Directory|Keys.F2|
-|Visit Website|Keys.F1|
+|Exit|Escape|
+|Show Playlist|P|
+|Show Library|L|
+|Toggle File Drop Target|D|
+|Show Settings|E|
+|Show Devices|V|
+|Reinitialize BASS device|Enter|
+|Open App Directory|F2|
+|Visit Website|F1|
 
 
 ### Media Control
 
 |Action|Key|
 |:------|:------|
-|Play/Pause|Keys.Space|
-|Restart|ctrl + Keys.Space|
-|Next/Prev Track|Keys.Right/Left|
-|Seek +/-5 seconds|shift + Keys.Right/Left|
-|Seek +/-30 seconds|ctrl + Keys.Right/Left|
-|Seek +/-2 minutes|ctrl + shift + Keys.Right/Left|
-|Volume +/-01|Keys.Up/Down|
-|Volume +/-02|shift + Keys.Up/Down|
-|Volume +/-05|ctrl + Keys.Up/Down|
-|Volume +/-10|ctrl + shift + Keys.Up/Down|
-|Mark As Favourite|Keys.F|
-|Display media information|Keys.I|
+|Play/Pause|Space|
+|Restart|ctrl + Space|
+|Next/Prev Track|Right/Left|
+|Seek +/-5 seconds|shift + Right/Left|
+|Seek +/-30 seconds|ctrl + Right/Left|
+|Seek +/-2 minutes|ctrl + shift + Right/Left|
+|Volume +/-01|Up/Down|
+|Volume +/-02|shift + Up/Down|
+|Volume +/-05|ctrl + Up/Down|
+|Volume +/-10|ctrl + shift + Up/Down|
+|Mark As Favourite|F|
+|Display media information|I|
 
 ### Playlist Control
 
 |Action|Key|
 |:------|:------|
-|Clear Playlist|ctrl + Keys.X|
-|Shuffle Playlist Once|Keys.S|
-|Toggle Repeat Single|Keys.R|
-|Toggle Repeat All|shift + Keys.R|
-|Toggle Reversed Playlist|ctrl + shift + Keys.R|
+|Clear Playlist|ctrl + X|
+|Shuffle Playlist Once|S|
+|Toggle Repeat Single|R|
+|Toggle Repeat All|shift + R|
+|Toggle Reversed Playlist|ctrl + shift + R|
 
 
 ### UI Size
 
 |Action|Key|
 |:------|:------|
-|Width +/- 5px|shift + Keys.Add/Subtract|
-|Width +/- 1px|shift + Keys.Multiply/Keys.Divide|
-|Height +/- 5px|ctrl + Keys.Add/Subtract|
-|Height +/- 1px|ctrl + Keys.Multiply/Keys.Divide|
-|X-Axis +/- 1px|ctrl + shift + Keys.Add/Subtract|
-|Y-Axis +/- 1px|ctrl + shift + Keys.Multiply/Keys.Divide|
+|Width +/- 5px|shift + Add/Subtract|
+|Width +/- 1px|shift + Multiply/Divide|
+|Height +/- 5px|ctrl + Add/Subtract|
+|Height +/- 1px|ctrl + Multiply/Divide|
+|X-Axis +/- 1px|ctrl + shift + Add/Subtract|
+|Y-Axis +/- 1px|ctrl + shift + Multiply/Divide|
 
 ### UI Visibility
 
 |Action|Key|
 |:------|:------|
-|Opacity +/- 5%|Keys.Add/Subtract|
-|Opacity +/- 1%|Keys.Multiply/Keys.Divide|
-|Toggle Hidden Label|Keys.H|
-|Toggle Hidden Seekbar|ctrl + Keys.H|
-|Toggle Hide in Taskbar|shift + Keys.H|
-|Toggle TopMost|ctrl + Keys.T|
-|Center Screen UI|ctrl + Keys.C|
-|Center Screen UI if out of bounds|Keys.C|
-|Auto-size UI|ctrl + Keys.B|
+|Opacity +/- 5%|Add/Subtract|
+|Opacity +/- 1%|Multiply/Divide|
+|Toggle Hidden Label|H|
+|Toggle Hidden Seekbar|ctrl + H|
+|Toggle Hide in Taskbar|shift + H|
+|Toggle TopMost|ctrl + T|
+|Center Screen UI|ctrl + C|
+|Center Screen UI if out of bounds|C|
+|Auto-size UI|ctrl + B|
 
 ### Misc
 
 |Action|Key|
 |:------|:------|
-|Toggle Hue Shift|Keys.T|
-|Choose Custom Default Art|Keys.A|
-|Set Color as Background|shift + Keys.S|
-|Load Config Changes|ctrl + Keys.O|
-|Save Config Changes|ctrl + Keys.S|
-|Save As Config Changes|ctrl + shift + Keys.S|
+|Toggle Hue Shift|T|
+|Choose Custom Default Art|A|
+|Set Color as Background|shift + S|
+|Load Config Changes|ctrl + O|
+|Save Config Changes|ctrl + S|
+|Save As Config Changes|ctrl + shift + S|
 
 
 
@@ -204,28 +204,28 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 |Action|Key|
 |:------|:------|
-|Close|Keys.Escape
-|Clear Playlist|ctrl + Keys.X|
-|Find in Library|ctrl + Keys.F|
-|Find Next|Keys.F3|
-|Select All|ctrl + Keys.A|
-|Select None|ctrl + Keys.L|
-|Toggle Grouped View|ctrl + Keys.G|
-|Show Info about selected item|Keys.F1|
+|Close|Escape
+|Clear Playlist|ctrl + X|
+|Find in Library|ctrl + F|
+|Find Next|F3|
+|Select All|ctrl + A|
+|Select None|ctrl + L|
+|Toggle Grouped View|ctrl + G|
+|Show Info about selected item|F1|
 
 
 ### On PlayList View
 
 |Action|Key|
 |:------|:------|
-|Play Now|Keys.Enter|
-|Shuffle Once |ctrl + Keys.S|
-|Select All|ctrl + Keys.A|
-|Select None|ctrl + Keys.L|
-|Remove Selected Tracks|Keys.Delete|
-|Clear Playlist|ctrl + Keys.X|
-|Find in Playlist|ctrl + Keys.F|
-|Find Next|Keys.F3|
-|Locate Current Track|Keys.Space|
+|Play Now|Enter|
+|Shuffle Once |ctrl + S|
+|Select All|ctrl + A|
+|Select None|ctrl + L|
+|Remove Selected Tracks|Delete|
+|Clear Playlist|ctrl + X|
+|Find in Playlist|ctrl + F|
+|Find Next|F3|
+|Locate Current Track|Space|
 
 ___
