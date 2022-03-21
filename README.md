@@ -122,7 +122,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 ### General
 
 |Action|Key|
-|:------:|:------:|
+|:------|:------|
 |Exit|Keys.Escape|
 |Show Playlist|Keys.P|
 |Show Library|Keys.L|
@@ -137,7 +137,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 ### Media Control
 
 |Action|Key|
-|:------:|:------:|
+|:------|:------|
 |Play/Pause|Keys.Space|
 |Restart|ctrl + Keys.Space|
 |Next/Prev Track|Keys.Right/Left|
@@ -154,7 +154,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 ### Playlist Control
 
 |Action|Key|
-|:------:|:------:|
+|:------|:------|
 |Clear Playlist|ctrl + Keys.X|
 |Shuffle Playlist Once|Keys.S|
 |Toggle Repeat Single|Keys.R|
@@ -165,7 +165,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 ### UI Size
 
 |Action|Key|
-|:------:|:------:|
+|:------|:------|
 |Width +/- 5px|shift + Keys.Add/Subtract|
 |Width +/- 1px|shift + Keys.Multiply/Keys.Divide|
 |Height +/- 5px|ctrl + Keys.Add/Subtract|
@@ -176,7 +176,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 ### UI Visibility
 
 |Action|Key|
-|:------:|:------:|
+|:------|:------|
 |Opacity +/- 5%|Keys.Add/Subtract|
 |Opacity +/- 1%|Keys.Multiply/Keys.Divide|
 |Toggle Hidden Label|Keys.H|
@@ -190,7 +190,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 ### Misc
 
 |Action|Key|
-|:------:|:------:|
+|:------|:------|
 |Toggle Hue Shift|Keys.T|
 |Choose Custom Default Art|Keys.A|
 |Set Color as Background|shift + Keys.S|
@@ -203,7 +203,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 ### On Library View
 
 |Action|Key|
-|:------:|:------:|
+|:------|:------|
 |Close|Keys.Escape
 |Clear Playlist|ctrl + Keys.X|
 |Find in Library|ctrl + Keys.F|
@@ -217,7 +217,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 ### On PlayList View
 
 |Action|Key|
-|:------:|:------:|
+|:------|:------|
 |Play Now|Keys.Enter|
 |Shuffle Once |ctrl + Keys.S|
 |Select All|ctrl + Keys.A|
