@@ -100,7 +100,8 @@ ___
 ![5](mdsrc/5.png "startup")
 
 * After creating settings and library file, Kookie3 default interface will show up.
-	* **right-click** to see alt-menu
+* Note: By default, album-art or custom-backgroud-art is disabled/hidden. You can enable it under settings page.
+	* **right-click** to see alt-menu and more setting
 	
 ![6](mdsrc/6.png "alt-menu")
 
