@@ -1,10 +1,10 @@
 # ![K3](Kookie3/icons/icon0_dir.jpg) Kookie3 
 
-> Kookie3 Media Player with un4seen BASS audio library
+> Kookie3 Audio Player with un4seen BASS audio library
 
 ## ![K3](Kookie3/icons/icon2_pl.jpg) About
 
-Kookie3 is a stylish media player with sleek looks and minimalist UI. Kookie3 is **portable** and has **flexible UI**. It is designed to be used as a gadget which sits on top of other windows. Kookie3 includes visually appealing features like RGB-hue-Shift, Transperancy and Opacity control and custom animated backgrounds.
+Kookie3 is a stylish audio player with sleek looks and minimalist UI. Kookie3 is **portable** and has **flexible UI**. It is designed to be used as a gadget which sits on top of other windows. Kookie3 includes visually appealing features like RGB-hue-Shift, Transperancy and Opacity control and custom animated backgrounds.
 
 
 
