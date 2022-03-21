@@ -76,6 +76,7 @@ Kookie3 is stand-alone, no installation required. You can compile from source co
 
 ![2](mdsrc/2.png "Run Executable")
 
+* Press 'L' to view library and 'P' to view playlist
 ___
 
 **Note:**
@@ -112,123 +113,119 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 ## Mouse Controls
 * seekbar can be clicked
 * volume control with mouse wheel
-* drag-drop to open files/folders
+* drag-drop to open files/folders - works on UI, Library and Playlist
 * press and hold left-mouse-button to move window
 * right-click to see alt-menu
 
 ## Keyboard Controls
 
-
 ### General
 
-|------|------|
+|Action|Key|
 |:------:|:------:|
 |Exit|Keys.Escape|
-|Show Settings|Keys.E|
-|Show Devices|Keys.V|
 |Show Playlist|Keys.P|
 |Show Library|Keys.L|
 |Toggle File Drop Target|Keys.D|
+|Show Settings|Keys.E|
+|Show Devices|Keys.V|
 |Reinitialize BASS device|Keys.Enter|
+|Open App Directory|Keys.F2|
+|Visit Website|Keys.F1|
+
 
 ### Media Control
-```
-Play/Pause  ::  Keys.Space
-Restart  ::  ctrl + Keys.Space
-Next/Prev Track  ::  Keys.Right/Left
-Clear Playlist  ::  ctrl + Keys.X
-Shuffle Playlist Once  ::  Keys.S
-Toggle Repeat Single  ::  Keys.R
-```
 
-### Volume Control
-```
-Volume up +/-01 :: Keys.Up/Down
-Volume up +/-02 :: shift + Keys.Up/Down
-Volume up +/-05 :: ctrl + Keys.Up/Down
-Volume up +/-10 :: ctrl + shift + Keys.Up/Down
-Seek Media +/- 05sec :: shift + Keys.Right/Left
-Seek Media +/- 50sec :: ctrl + Keys.Right/Left
-```
+|Action|Key|
+|:------:|:------:|
+|Play/Pause|Keys.Space|
+|Restart|ctrl + Keys.Space|
+|Next/Prev Track|Keys.Right/Left|
+|Seek +/-5 seconds|shift + Keys.Right/Left|
+|Seek +/-30 seconds|ctrl + Keys.Right/Left|
+|Seek +/-2 minutes|ctrl + shift + Keys.Right/Left|
+|Volume +/-01|Keys.Up/Down|
+|Volume +/-02|shift + Keys.Up/Down|
+|Volume +/-05|ctrl + Keys.Up/Down|
+|Volume +/-10|ctrl + shift + Keys.Up/Down|
+|Mark As Favourite|Keys.F|
+|Display media information|Keys.I|
 
 ### Playlist Control
-```
-Mark As Favourite  ::  Keys.F
-Toggle Auto-Play  ::  Keys.A
-Toggle Random Starting Track  ::  ctrl + Keys.A
-Toggle Reversed Playlist  ::  ctrl + shift + Keys.R
-Toggle Auto-Remove unplayable media  ::  ctrl + Keys.X
-```
 
-### UI Arts & Colors
-```
-Choose Background Color  ::  Keys.D1
-Choose Foreground Color  ::  Keys.D2
-Choose Font Style  ::  Keys.D3
-Choose Transperancy Key :: Keys.D4
-Clear Transperancy Key :: Leys.D5
-Choose Custom Default Art :: Keys.D6
-Show AlbumArt :: Keys.Z
-Dock AlbumArt :: Ctrl + Keys.Z
-```
-
-### UI and Taskbar
-```
-Toggle TopMost :: ctrl + Keys.T
-Toggle Hidden Seekbar  ::  ctrl + Keys.H
-Toggle Hidden Label  ::  Keys.H
-Toggle Hide in Taskbar :: shift + Keys.H
-```
+|Action|Key|
+|:------:|:------:|
+|Clear Playlist|ctrl + Keys.X|
+|Shuffle Playlist Once|Keys.S|
+|Toggle Repeat Single|Keys.R|
+|Toggle Repeat All|shift + Keys.R|
+|Toggle Reversed Playlist|ctrl + shift + Keys.R|
 
 
-### UI Hue Shift
-```
-Toggle Hue Shift  ::  Keys.T
-Set HueShift Angle :: shift + Keys.T
-```
+### UI Size
 
-### UI Size and Opacity
-```
-Opacity +/- 5% :: Keys.Add/Subtract
-Opacity +/- 1% :: Keys.Multiply/Keys.Divide
-Width +/- 5px :: shift + Keys.Add/Subtract
-Width +/- 1px :: shift + Keys.Multiply/Keys.Divide
-Height +/- 5px :: ctrl + Keys.Add/Subtract
-Height +/- 1px :: ctrl + Keys.Multiply/Keys.Divide
-X-Axis +/- 1px :: ctrl + shift + Keys.Add/Subtract
-Y-Axis +/- 1px :: ctrl + shift + Keys.Multiply/Keys.Divide
-```
+|Action|Key|
+|:------:|:------:|
+|Width +/- 5px|shift + Keys.Add/Subtract|
+|Width +/- 1px|shift + Keys.Multiply/Keys.Divide|
+|Height +/- 5px|ctrl + Keys.Add/Subtract|
+|Height +/- 1px|ctrl + Keys.Multiply/Keys.Divide|
+|X-Axis +/- 1px|ctrl + shift + Keys.Add/Subtract|
+|Y-Axis +/- 1px|ctrl + shift + Keys.Multiply/Keys.Divide|
+
+### UI Visibility
+
+|Action|Key|
+|:------:|:------:|
+|Opacity +/- 5%|Keys.Add/Subtract|
+|Opacity +/- 1%|Keys.Multiply/Keys.Divide|
+|Toggle Hidden Label|Keys.H|
+|Toggle Hidden Seekbar|ctrl + Keys.H|
+|Toggle Hide in Taskbar|shift + Keys.H|
+|Toggle TopMost|ctrl + Keys.T|
+|Center Screen UI|ctrl + Keys.C|
+|Center Screen UI if out of bounds|Keys.C|
+|Auto-size UI|ctrl + Keys.B|
 
 ### Misc
-```
-Change Startup Msg  ::  Keys.M
-Display status information  ::  ctrl + Keys.I
-Display media information  ::  Keys.I
-Save Changes  ::  ctrl + Keys.S
-```
+
+|Action|Key|
+|:------:|:------:|
+|Toggle Hue Shift|Keys.T|
+|Choose Custom Default Art|Keys.A|
+|Set Color as Background|shift + Keys.S|
+|Load Config Changes|ctrl + Keys.O|
+|Save Config Changes|ctrl + Keys.S|
+|Save As Config Changes|ctrl + shift + Keys.S|
+
 
 
 ### On Library View
-```
-Close  ::  Keys.Escape
-Clear Playlist  ::  ctrl + Keys.X
-Find in Library  ::  ctrl + Keys.F
-Find Next  ::  Keys.F3
-Select All  ::  ctrl + Keys.A
-Select None  ::  ctrl + Keys.L
-Toggle Grouped View  ::  ctrl + Keys.G
-Show Info about selected item  ::  Keys.F1
-```
+
+|Action|Key|
+|:------:|:------:|
+|Close|Keys.Escape
+|Clear Playlist|ctrl + Keys.X|
+|Find in Library|ctrl + Keys.F|
+|Find Next|Keys.F3|
+|Select All|ctrl + Keys.A|
+|Select None|ctrl + Keys.L|
+|Toggle Grouped View|ctrl + Keys.G|
+|Show Info about selected item|Keys.F1|
+
 
 ### On PlayList View
-```
-Play Now  ::  Keys.Enter
-Shuffle Once  :: ctrl + Keys.S
-Select All  ::  ctrl + Keys.A
-Select None  ::  ctrl + Keys.L
-Remove Selected Tracks  ::  Keys.Delete
-Clear Playlist  ::  ctrl + Keys.X
-Find in Playlist  ::  ctrl + Keys.F
-Find Next  ::  Keys.F3
-Locate Current Track  ::  Keys.Space
-```
+
+|Action|Key|
+|:------:|:------:|
+|Play Now|Keys.Enter|
+|Shuffle Once |ctrl + Keys.S|
+|Select All|ctrl + Keys.A|
+|Select None|ctrl + Keys.L|
+|Remove Selected Tracks|Keys.Delete|
+|Clear Playlist|ctrl + Keys.X|
+|Find in Playlist|ctrl + Keys.F|
+|Find Next|Keys.F3|
+|Locate Current Track|Keys.Space|
+
+___
