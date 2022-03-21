@@ -1,15 +1,17 @@
-# Kookie3
+# ![K3](Kookie3/icons/icon0_dir.jpg) Kookie3 
 
 > Kookie3 Media Player with un4seen BASS audio library
 
-## About
+## ![K3](Kookie3/icons/icon2_pl.jpg) About
 
 Kookie3 is a stylish media player with sleek looks and minimalist UI. Kookie3 is **portable** and has **flexible UI**. It is designed to be used as a gadget which sits on top of other windows. Kookie3 includes visually appealing features like RGB-hue-Shift, Transperancy and Opacity control and custom animated backgrounds.
+
+
 
 Based on [un4seen BASS audio library](https://www.un4seen.com/).
 Supported for windows7 and above. Requires .NET framework 4.8 or above.
 
-## Customized Interface
+## ![K3](Kookie3/icons/icon0_dir.jpg) Kookie3 Customized Interface
 
 ![ui1](mdsrc/ui1.png)
 
@@ -24,55 +26,55 @@ ___
 
 ![ui2](mdsrc/ui2.png)
 
-**Transparent UI with opacity control**
+![K3](Kookie3/icons/icon3_config.jpg) **Transparent UI with opacity control**
 ___
 
 ![ui3](mdsrc/ui3.png)
 
-**Resize UI and Dock seekbar & art as you like**
+![K3](Kookie3/icons/icon3_config.jpg) **Resize UI and Dock seekbar & art as you like**
 ___
 
 ![ui4](mdsrc/ui4.png)
 
-**Minimal UI with only a seekbar**
+![K3](Kookie3/icons/icon3_config.jpg) **Minimal UI with only a seekbar**
 ___
 
 ![ui5](mdsrc/ui5.png)
 
-**Multi-Line Lable with TV-style UI**
+![K3](Kookie3/icons/icon3_config.jpg) **Multi-Line Lable with TV-style UI**
 ___
 
 ![ui6](mdsrc/ui6.png)
 
-**Fully Transparent Docked Player**
+![K3](Kookie3/icons/icon3_config.jpg) **Fully Transparent Docked Player**
 ___
 
 ![ui7](mdsrc/ui7.png)
 
-**Solid Lable with transparent art**
+![K3](Kookie3/icons/icon3_config.jpg) **Solid Lable with transparent art**
 ___
 
 ![ui8](mdsrc/ui8.png)
 
-**Fully Solid (opaque) UI**
+![K3](Kookie3/icons/icon3_config.jpg) **Fully Solid (opaque) UI**
 ___
 
 ![ui9](mdsrc/ui9.png)
 
-**Auto color matching UI** : Note - color matching is b/w art background and label background, this works during Hue shift as well.
+![K3](Kookie3/icons/icon3_config.jpg) **Auto color matching UI** : Note - color matching is b/w art background and label background, this works during Hue shift as well.
 ___
 
 ![ui10](mdsrc/ui10.png)
 
-**No Lable UI**
+![K3](Kookie3/icons/icon3_config.jpg) **No Lable UI**
 ___
 
 ![ui11](mdsrc/ui11.gif)
 
-**Full Hue shift with RGB effects** : turn on *Hue Shift* in settings
+![K3](Kookie3/icons/icon3_config.jpg) **Full Hue shift with RGB effects** : turn on *Hue Shift* in settings
 ___
 
-## Installation
+## ![K3](Kookie3/icons/icon2_pl.jpg) Installation
 
 Kookie3 is stand-alone, no installation required. You can compile from source code or use pre-compiled binaries available in zip format.
 
@@ -87,7 +89,7 @@ Kookie3 is stand-alone, no installation required. You can compile from source co
 * Press 'L' to view library and 'P' to view playlist
 ___
 
-**Note:**
+![K3](Kookie3/icons/icon3_config.jpg) **Note:**
 * make sure BASS related dlls `bass.dll` and `Bass.Net.dll` are in the same directory as the executable `Kookie3.exe`
 
 ![3](mdsrc/3.png "BASS dlls")
@@ -118,7 +120,7 @@ ___
 
 ![8](mdsrc/8.png "System Tray Icon")
 
-**Note:**
+![K3](Kookie3/icons/icon3_config.jpg) **Note:**
 
 If you can't find your UI on screen, due to various reasons such as:
 
@@ -147,7 +149,7 @@ and load it later using:
 * shortcut `ctrl + O`
 
 
-**Note: Transparent UI**
+![K3](Kookie3/icons/icon3_config.jpg) **Note: Transparent UI**
 
 To make UI transparent, go to settings `ctrl + E`
 * Select a `Color_Transparent` - this color will be made the `TransperancyKey` of main UI
@@ -159,7 +161,7 @@ To make UI transparent, go to settings `ctrl + E`
 * **VERY IMPORTANT** : DO NOT SET TRANSPERANCY KEY TO PURE WHITE (255,255,255) OR PURE BLACK (0,0,0) as this may cause UI to misbehave.
 
 
-**Note: RGB Effect with Hue-Shifting**
+![K3](Kookie3/icons/icon3_config.jpg) **Note: RGB Effect with Hue-Shifting**
 
 To toggle Hue-Shifting use shortcut key `T`. 
 Note that:
@@ -174,20 +176,20 @@ Note that:
 ___
 
 
-## UI Controls
+## ![K3](Kookie3/icons/icon0_dir.jpg) UI Controls
 
 Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can be accessed using mouse as well.
 
-## Mouse Controls
+## ![K3](Kookie3/icons/icon2_pl.jpg) Mouse Controls
 * seekbar can be clicked
 * volume control with mouse wheel
 * drag-drop to open files/folders - works on UI, Library and Playlist
 * press and hold left-mouse-button to move window
 * right-click to see alt-menu
 
-## Keyboard Controls
+## ![K3](Kookie3/icons/icon2_pl.jpg) Keyboard Controls
 
-### General
+### ![K3](Kookie3/icons/icon1_file.jpg) General
 
 |Action----------------------------|Key----------------------------|
 |:------|:------|
@@ -202,7 +204,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 |Visit Website|F1|
 
 
-### Media Control
+### ![K3](Kookie3/icons/icon1_file.jpg) Media Control
 
 |Action----------------------------|Key----------------------------|
 |:------|:------|
@@ -219,7 +221,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 |Mark As Favourite|F|
 |Display media information|I|
 
-### Playlist Control
+### ![K3](Kookie3/icons/icon1_file.jpg) Playlist Control
 
 |Action----------------------------|Key----------------------------|
 |:------|:------|
@@ -230,7 +232,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 |Toggle Reversed Playlist|ctrl + shift + R|
 
 
-### UI Size
+### ![K3](Kookie3/icons/icon1_file.jpg) UI Size
 
 |Action----------------------------|Key----------------------------|
 |:------|:------|
@@ -241,7 +243,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 |X-Axis +/- 1px|ctrl + shift + Add/Subtract|
 |Y-Axis +/- 1px|ctrl + shift + Multiply/Divide|
 
-### UI Visibility
+### ![K3](Kookie3/icons/icon1_file.jpg) UI Visibility
 
 |Action----------------------------|Key----------------------------|
 |:------|:------|
@@ -255,7 +257,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 |Center Screen UI if out of bounds|C|
 |Auto-size UI|ctrl + B|
 
-### Misc
+### ![K3](Kookie3/icons/icon1_file.jpg) Misc
 
 |Action----------------------------|Key----------------------------|
 |:------|:------|
@@ -268,7 +270,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 
 
-### On Library View
+### ![K3](Kookie3/icons/icon1_file.jpg) On Library View
 
 |Action----------------------------|Key----------------------------|
 |:------|:------|
@@ -282,7 +284,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 |Show Info about selected item|F1|
 
 
-### On PlayList View
+### ![K3](Kookie3/icons/icon1_file.jpg) On PlayList View
 
 |Action----------------------------|Key----------------------------|
 |:------|:------|
