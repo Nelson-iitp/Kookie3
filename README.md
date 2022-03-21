@@ -121,7 +121,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 ### General
 
-|Action|Key|
+|Action----------------------------|Key----------------------------|
 |:------|:------|
 |Exit|Escape|
 |Show Playlist|P|
@@ -136,7 +136,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 ### Media Control
 
-|Action|Key|
+|Action----------------------------|Key----------------------------|
 |:------|:------|
 |Play/Pause|Space|
 |Restart|ctrl + Space|
@@ -153,7 +153,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 ### Playlist Control
 
-|Action|Key|
+|Action----------------------------|Key----------------------------|
 |:------|:------|
 |Clear Playlist|ctrl + X|
 |Shuffle Playlist Once|S|
@@ -164,7 +164,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 ### UI Size
 
-|Action|Key|
+|Action----------------------------|Key----------------------------|
 |:------|:------|
 |Width +/- 5px|shift + Add/Subtract|
 |Width +/- 1px|shift + Multiply/Divide|
@@ -175,7 +175,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 ### UI Visibility
 
-|Action|Key|
+|Action----------------------------|Key----------------------------|
 |:------|:------|
 |Opacity +/- 5%|Add/Subtract|
 |Opacity +/- 1%|Multiply/Divide|
@@ -189,7 +189,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 ### Misc
 
-|Action|Key|
+|Action----------------------------|Key----------------------------|
 |:------|:------|
 |Toggle Hue Shift|T|
 |Choose Custom Default Art|A|
@@ -202,7 +202,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 ### On Library View
 
-|Action|Key|
+|Action----------------------------|Key----------------------------|
 |:------|:------|
 |Close|Escape
 |Clear Playlist|ctrl + X|
@@ -216,7 +216,7 @@ Kookie3 is mainly focused on quick-keyboard shortcuts but all functionality can 
 
 ### On PlayList View
 
-|Action|Key|
+|Action----------------------------|Key----------------------------|
 |:------|:------|
 |Play Now|Enter|
 |Shuffle Once |ctrl + S|
