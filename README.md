@@ -24,24 +24,14 @@ Simple design of Kookie3 makes its interface simple to customize. The main UI ha
 Checkout some interface setting below.
 ___
 
-![ui2](mdsrc/ui2.png)
+![ui2](mdsrc/ui23.png)
 
 ![K3](Kookie3/icons/icon3_config.jpg) **Transparent UI with opacity control**
 ___
 
-![ui3](mdsrc/ui3.png)
+![ui4](mdsrc/ui45.png)
 
-![K3](Kookie3/icons/icon3_config.jpg) **Resize UI and Dock seekbar & art as you like**
-___
-
-![ui4](mdsrc/ui4.png)
-
-![K3](Kookie3/icons/icon3_config.jpg) **Minimal UI with only a seekbar**
-___
-
-![ui5](mdsrc/ui5.png)
-
-![K3](Kookie3/icons/icon3_config.jpg) **Multi-Line Lable with TV-style UI**
+![K3](Kookie3/icons/icon3_config.jpg) **Minimal UI with only a seekbar & Multi-Line Lable with no seekbar**
 ___
 
 ![ui6](mdsrc/ui6.png)
@@ -49,14 +39,9 @@ ___
 ![K3](Kookie3/icons/icon3_config.jpg) **Fully Transparent Docked Player**
 ___
 
-![ui7](mdsrc/ui7.png)
+![ui7](mdsrc/ui78.png)
 
 ![K3](Kookie3/icons/icon3_config.jpg) **Solid Lable with transparent art**
-___
-
-![ui8](mdsrc/ui8.png)
-
-![K3](Kookie3/icons/icon3_config.jpg) **Fully Solid (opaque) UI**
 ___
 
 ![ui9](mdsrc/ui9.png)
@@ -66,7 +51,7 @@ ___
 
 ![ui10](mdsrc/ui10.png)
 
-![K3](Kookie3/icons/icon3_config.jpg) **No Lable UI**
+![K3](Kookie3/icons/icon3_config.jpg) **Minimal No-Lable UI**
 ___
 
 ![ui11](mdsrc/ui11.gif)
